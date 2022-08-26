@@ -1,0 +1,9 @@
+
+//====How to set up environment variables===//
+
+npm init -y
+npm install express
+npm install dotenv
+
+// For Run Project
+node index.js

@@ -1,0 +1,4 @@
+
+cd Lessonexprs8
+npm init -y
+npm install express nodemon

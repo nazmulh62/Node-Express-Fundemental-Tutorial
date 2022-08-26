@@ -1,0 +1,13 @@
+//====middleware in express.js=====//
+middleware is one kind of function 
+
+middleware 3 important elements:
+>> request object(req)
+>> response object(res)
+>> next (next must useable for middleware)
+
+
+For Documentation:
+==================
+https://expressjs.com/en/guide/using-middleware.html
+https://expressjs.com/en/guide/writing-middleware.html
